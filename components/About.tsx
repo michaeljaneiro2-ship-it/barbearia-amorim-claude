@@ -48,6 +48,8 @@ const About: React.FC = () => {
             loop
             playsInline
             preload="metadata"
+width="800"
+  height="500"
             className="relative rounded-xl w-full h-[500px] object-cover shadow-2xl z-10"
             poster="https://res.cloudinary.com/dp1vz8hho/image/upload/c_scale,q_auto:good,f_auto,w_800/v1769709336/amorim-espac%CC%A7o_1_1_kj1dwh.png"
           >

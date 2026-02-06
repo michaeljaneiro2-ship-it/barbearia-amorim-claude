@@ -11,8 +11,10 @@ const Hero: React.FC = () => {
       {/* Background Image with subtle overlay - optimized for performance */}
       <div className="absolute inset-0 z-0">
         <img
-          src="https://res.cloudinary.com/dp1vz8hho/image/upload/c_scale,q_auto:good,f_auto,w_1920/v1769709336/amorim-espac%CC%A7o_1_1_kj1dwh.png"
+src="https://res.cloudinary.com/dp1vz8hho/image/upload/c_scale,w_1920,h_1080,c_fill,g_auto,q_auto:best,f_auto,fl_progressive/v1769709336/amorim-espac%CC%A7o_1_1_kj1dwh.png"
           alt="Interior da Barbearia Amorim em Arcozelo, Barcelos - Ambiente acolhedor e profissional"
+ width="1920"
+  height="1080"
           className="w-full h-full object-cover brightness-[0.5]"
           loading="eager"
           fetchPriority="high"

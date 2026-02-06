@@ -25,6 +25,8 @@ const Portfolio: React.FC = () => {
               <img
                 src={item.imageUrl}
                 alt={item.alt}
+  width="800"
+  height="1000"
                 loading="lazy"
                 className="w-full object-cover transition-transform duration-500 group-hover:scale-110"
               />
