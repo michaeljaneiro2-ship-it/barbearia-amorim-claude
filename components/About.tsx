@@ -14,7 +14,7 @@ const About: React.FC = () => {
           </h2>
           
           <p className="text-dark/80 text-lg mb-10 leading-relaxed max-w-2xl mx-auto md:mx-0">
-            Na Barbearia Amorim, não cortamos apenas cabelo - criamos laços. Desde 2018, somos o ponto de encontro dos homens de Barcelos que procuram qualidade, preços justos e um sítio onde possam estar à vontade. Aqui, és tratado como família.
+            Na Barbearia Amorim, não cortamos apenas cabelo - criamos laços. Desde 2012, somos o ponto de encontro dos homens de Barcelos que procuram qualidade, preços justos e um sítio onde possam estar à vontade. Aqui, és tratado como família.
           </p>
 
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-6 justify-items-center md:justify-items-start">

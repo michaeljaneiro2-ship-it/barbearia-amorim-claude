@@ -33,7 +33,7 @@ const Services: React.FC = () => {
 
         <div className="mt-20 flex justify-center">
           <a
-            href="https://buk.pt"
+            href="https://buk.pt/barbearia-amorim?utm_source=website&utm_medium=website&utm_content=website"
             className="bg-dark hover:bg-dark/90 text-gold px-12 py-5 rounded-full font-bold text-xl uppercase shadow-xl transition-all hover:scale-105 flex items-center gap-3"
           >
             <Calendar className="w-6 h-6" />

@@ -22,7 +22,7 @@ const Navbar: React.FC = () => {
   const BUK_LINK = "https://buk.pt/barbearia-amorim?utm_source=website&utm_medium=website&utm_content=website";
 
   return (
-    <nav className={`fixed w-full z-50 transition-all duration-300 ${isScrolled ? 'bg-dark/95 py-3 shadow-lg' : 'bg-transparent py-6'}`}>
+    <nav className={`fixed w-full z-50 transition-all duration-300 ${isScrolled ? 'bg-dark/95 backdrop-blur-md py-3 shadow-lg' : 'bg-transparent py-6'}`}>
       <div className="max-w-7xl mx-auto px-6 flex justify-center md:justify-between items-center">
         <a href="#" className="flex items-center gap-3 group">
           <img 
